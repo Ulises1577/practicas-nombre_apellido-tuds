@@ -1,0 +1,21 @@
+{
+  "name": "practicas-nombre_apellido-tuds",
+  "version": "1.0.0",
+  "description": "Estamos haciendo practicas de codigo y memorizar el procedimiento para abrir y crear los repositorios.",
+  "homepage": "https://github.com/Ulises1577/practicas-nombre_apellido-tuds#readme",
+  "bugs": {
+    "url": "https://github.com/Ulises1577/practicas-nombre_apellido-tuds/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ulises1577/practicas-nombre_apellido-tuds.git"
+  },
+  "license": "MIT",
+  "author": "Ulises Manrique",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
