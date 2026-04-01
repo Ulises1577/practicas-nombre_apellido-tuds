@@ -1,4 +1,4 @@
-nombre = 'ulises'
-apellido = 'manrique'
+let nombre = "ulises";
+let apellido = "manrique";
 
-console.log('Hola ' + nombre + ' ' + apellido)
+console.log('Hola ' + nombre + ' ' + apellido);
